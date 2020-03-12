@@ -1,0 +1,3 @@
+The accuracy of the spam filter is close to 98.74%, which is really good. It looked at 1,114 messages that it hasn't seen in training, and classified 1,100 correctly.
+
+In this project, a spam filter for SMS messages is built using the multinomial Naive Bayes algorithm. The filter had an accuracy of 98.74% on the test set used, which is a pretty good result. The initial goal was to have an accuracy of over 80%, and the filter managed to do way better than that.
